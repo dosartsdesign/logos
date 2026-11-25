@@ -1,0 +1,50 @@
+{
+  "artboards": [
+    {
+      "file": "Main.dc.html",
+      "x": 0,
+      "y": 0,
+      "w": 1040,
+      "h": 520,
+      "title": "01 · Evolução"
+    },
+    {
+      "file": "Monograma.dc.html",
+      "x": 1120,
+      "y": 0,
+      "w": 1040,
+      "h": 520,
+      "title": "02 · Monograma d"
+    },
+    {
+      "file": "Grade.dc.html",
+      "x": 0,
+      "y": 640,
+      "w": 1040,
+      "h": 520,
+      "title": "03 · Grade de widgets"
+    },
+    {
+      "file": "Wordmark.dc.html",
+      "x": 1120,
+      "y": 640,
+      "w": 1040,
+      "h": 520,
+      "title": "04 · Wordmark"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "titulo",
+      "x": 0,
+      "y": -300,
+      "w": 240,
+      "maxW": 2160,
+      "text": "Dosarts Design — conceitos de logo",
+      "kind": "title1"
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  }
+}

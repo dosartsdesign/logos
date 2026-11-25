@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Cosmopolis Wallpapers",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/cosmopolis.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartscosmopolis.walls"
+	},	
+	{
+		"name": "Magma for KWGT",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/magmakwtg.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartsmagma.widgets"
+	},
+	{
+		"name": "Mono for KLWP",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/monoklwp.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartsmono.klwp"
+	},
+	{
+		"name": "Mono for KWGT",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/monokwgt.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartsmono.widgets"
+	},
+	{
+		"name": "MaterialWho for KWGT",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/mtrlkwgt.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartsmtrlwho.widgets"
+	},
+	{
+		"name": "Rocket for KWGT",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/rocketkwgt.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartsrocket.widgets"
+	},
+	{
+		"name": "Typo for KWGT",
+		"iconurl": "https://cdn.jsdelivr.net/gh/dosartsdesign/logos@main/logos/typokwgt.png",
+		"playstoreurl": "https://play.google.com/store/apps/details?id=com.dosartstypographical.widgets"
+	}
+]
